@@ -26,15 +26,11 @@ This project explores the Sample Superstore dataset to uncover useful patterns i
 - 📊 Build a dashboard that presents key business metrics clearly.
 
 🧰 Tools & Technologies
-
-Tool| Purpose
-🐍 Python| Data analysis
-📓 Jupyter Notebook| Writing and executing analysis code
-🐼 Pandas| Data manipulation and preprocessing
-🔢 NumPy| Numerical operations
-📉 Matplotlib & Seaborn| Data visualization
-📊 Power BI| Dashboard creation and business reporting
-🐙 GitHub| Project documentation and version sharing
+🐍 Python 
+📓 Jupyter Notebook
+📉 Matplotlib & Seaborn
+📊 Power BI
+🐙 GitHub
 
 📁 Dataset
 
