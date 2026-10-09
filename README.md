@@ -93,11 +93,7 @@ It highlights how data analysis can help transform raw information into a cleare
 👩‍💻 Author
 
 Kripa Shettigar
+
 BSc Data Science Student
-
----
-⭐ Thanks for visiting my project! I'm continuously learning and building my skills in Data Science, Data Analytics, and Business Intelligence.
-
-#DataAnalytics #Python #PowerBI #BusinessIntelligence #DataVisualization
 
 
