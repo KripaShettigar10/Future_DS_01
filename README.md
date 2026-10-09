@@ -25,12 +25,13 @@ This project explores the Sample Superstore dataset to uncover useful patterns i
 - 👥 Explore customer segment performance.
 - 📊 Build a dashboard that presents key business metrics clearly.
 
-🧰 Tools & Technologies
-Python 
-Jupyter Notebook
-Matplotlib & Seaborn
-Power BI
-GitHub
+🛠️ Tools & Technologies Used
+
+- 🐍 Python
+- 📓 Jupyter Notebook 
+- 📈 Matplotlib & Seaborn 
+- 📊 Power BI 
+- 🐙 GitHub 
 
 📁 Dataset
 
