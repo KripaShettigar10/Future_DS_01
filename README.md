@@ -66,12 +66,11 @@ Dashboard highlights:
 
 📂 Project Files
 
-File| Description
-"Future_DS_01.ipynb"| Jupyter Notebook containing Python analysis
-"Future_DS_1.pbix"| Power BI dashboard file
-"DashBoard_Screenshot.png"| Dashboard screenshot
-"sample_superstore.csv"| Dataset used in the project
-"Future_DS_01 - Business Sales Performance Analysis.pdf"| Final project report
+- "Future_DS_01.ipynb"| Jupyter Notebook containing Python analysis
+- "Future_DS_1.pbix"| Power BI dashboard file
+- "DashBoard_Screenshot.png"| Dashboard screenshot
+- "sample_superstore.csv"| Dataset used in the project
+- "Future_DS_01 - Business Sales Performance Analysis.pdf"| Final project report
 
 📌 Key Learnings
 
