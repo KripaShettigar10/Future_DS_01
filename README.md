@@ -4,7 +4,7 @@
 
 Turning Retail Data into Meaningful Business Insights 🚀
 
-«A Data Analytics project focused on understanding retail sales, profitability, customer segments, and regional performance using Python and Power BI.»
+A Data Analytics project focused on understanding retail sales, profitability, customer segments, and regional performance using Python and Power BI.
 
 ---
 
